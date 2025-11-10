@@ -205,7 +205,10 @@ export default {
                         Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        Please play on the original copy of the level, unless you're verifying it.
+                        Please play on the original copy of the level.
+                    </p>
+                    <p>
+                        Your record must be accepted in the Global Demonlist.
                     </p>
         </div>
       </div>
