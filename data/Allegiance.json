@@ -1,0 +1,18 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "normalpersonGD",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+      { 
+        "user": "StintlerGD", 
+        "link": "",
+        "percent": 100, 
+        "hz": 60 
+      }
+    ]
+}
