@@ -3,10 +3,16 @@
     "name": "Acu",
     "author": "neigefeu",
     "creators": ["neigefeu"],
-    "verifier": "normalpersonGD",
+    "verifier": "Kinoxas",
     "verification": "",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+      { 
+        "user": "normalpersonGD", 
+        "link": "",
+        "percent": 100, 
+        "hz": 60 
+      }
     ]
 }
